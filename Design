@@ -1,0 +1,13 @@
+package emailapp;
+
+public class Email {
+
+  String firstname;
+  String lastname;
+  String department;
+  String company;
+  String password;
+  int mailboxCapacity;
+  String alternateEmail;
+
+}
